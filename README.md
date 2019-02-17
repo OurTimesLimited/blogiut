@@ -1,2 +1,0 @@
-# blogiut
-Blog IUT
